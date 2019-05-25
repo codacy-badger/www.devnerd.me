@@ -4,6 +4,7 @@ node_js:
 dist: trusty
 install:
     - yarn install
+    - npm i -g gatsby-cli
 script:
     - npm run test
     - npm run build
