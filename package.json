@@ -4,7 +4,7 @@
   "author": "Nghia Tran <thnghia6063@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "antd": "3.7.0",
+    "antd": "3.18.2",
     "fontfaceobserver": "2.0.13",
     "gatsby": "2.0.21",
     "gatsby-image": "2.0.9",
