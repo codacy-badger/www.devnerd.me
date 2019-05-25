@@ -7,4 +7,4 @@ install:
     - npm i -g gatsby-cli
 script:
     - npm run test
-    - npm run build
+    - gastby build
