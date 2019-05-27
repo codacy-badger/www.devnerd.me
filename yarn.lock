@@ -10744,13 +10744,13 @@ postcss@6.0.22, postcss@^6, postcss@^6.0, postcss@^6.0.0, postcss@^6.0.11, postc
     source-map "^0.6.1"
     supports-color "^5.4.0"
 
-postcss@7.0.0, postcss@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.0.tgz#163f70d2fe2715c6d4a4b3d300051c1ea9594aa9"
+postcss@7.0.16, postcss@^7.0.14:
+  version "7.0.16"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.16.tgz#48f64f1b4b558cb8b52c88987724359acb010da2"
   dependencies:
-    chalk "^2.4.1"
+    chalk "^2.4.2"
     source-map "^0.6.1"
-    supports-color "^5.4.0"
+    supports-color "^6.1.0"
 
 postcss@^5.0.5, postcss@^5.2.0, postcss@^5.2.16, postcss@^5.2.5:
   version "5.2.18"
@@ -10777,13 +10777,13 @@ postcss@^6.0.23:
     source-map "^0.6.1"
     supports-color "^5.4.0"
 
-postcss@^7.0.14:
-  version "7.0.16"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.16.tgz#48f64f1b4b558cb8b52c88987724359acb010da2"
+postcss@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.0.tgz#163f70d2fe2715c6d4a4b3d300051c1ea9594aa9"
   dependencies:
-    chalk "^2.4.2"
+    chalk "^2.4.1"
     source-map "^0.6.1"
-    supports-color "^6.1.0"
+    supports-color "^5.4.0"
 
 potrace@^2.1.1:
   version "2.1.1"
