@@ -10753,11 +10753,11 @@ postcss-unique-selectors@^4.0.0:
     postcss "^6.0.0"
     uniqs "^2.0.0"
 
-postcss-utilities@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/postcss-utilities/-/postcss-utilities-0.8.0.tgz#2378ff421638d68f9e31bc61ab4a8c220b4a7c43"
+postcss-utilities@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/postcss-utilities/-/postcss-utilities-0.8.1.tgz#fc1ede5b6cd3264efcb06008680390bec19c590e"
   dependencies:
-    postcss "^6.0.16"
+    postcss "^7.0.2"
     postcss-value-parser "^3.3.0"
 
 postcss-value-parser@^3.0.0, postcss-value-parser@^3.2.3, postcss-value-parser@^3.3.0:
@@ -10784,7 +10784,7 @@ postcss@6.0.22, postcss@^6, postcss@^6.0, postcss@^6.0.0, postcss@^6.0.11, postc
     source-map "^0.6.1"
     supports-color "^5.4.0"
 
-postcss@7.0.16, postcss@^7.0.14:
+postcss@7.0.16, postcss@^7.0.14, postcss@^7.0.2:
   version "7.0.16"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.16.tgz#48f64f1b4b558cb8b52c88987724359acb010da2"
   dependencies:
